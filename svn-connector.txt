@@ -1,6 +1,6 @@
 http://community.polarion.com/projects/subversive/download/eclipse/5.0/builds           
     space
-	tab
+	tab ww
 	tabs
 	space
 	space
